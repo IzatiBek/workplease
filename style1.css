@@ -1,0 +1,53 @@
+.container{
+	width: 80%;
+	font-family: Tahoma;
+	text-align: center;
+}
+.head{
+	color: #c24cc4;
+	height: 110px;
+	margin-left: 20%;
+}
+.bigpicture{
+    margin-left: 10%;
+    width: 100%;
+    height: 100%;
+}
+.block{
+	padding-left: 10px;
+	display: flex;
+	text-align: left;
+	margin-left: 30%;
+}
+.blocks{
+	width: 35%;
+	padding-left: 40px;
+}
+
+h3{
+	color: #c24cc4;
+}
+.pictures img{
+    width: 30%;
+    display: inline-block;
+    padding-left: 8px;
+}
+.pictures{
+	padding-top: 3%;
+	margin-left: 20%;
+}
+button{
+	font-size: 20px;
+	color: black;
+	border: 1px solid black;
+	margin: 2%;
+	background-color: white;
+}
+.follow{
+	color: #c24cc4;
+	padding-top: 10%;
+	margin-left: 20%;
+}
+a{
+	color: #c24cc4;
+}
